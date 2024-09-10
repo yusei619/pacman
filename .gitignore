@@ -1,0 +1,12 @@
+venv/
+.venv
+*.pyc
+.idea
+.vscode
+*.mo
+*.pot
+*.log
+result/*
+.DS_Store
+parameters.json
+.python-version
